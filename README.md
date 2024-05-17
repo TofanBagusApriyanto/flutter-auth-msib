@@ -1,5 +1,7 @@
 # one_page_login_register
 
+Nama : Tofan Bagus Apriyanto
+
 A new Flutter project.
 
 ## Getting Started
